@@ -2,7 +2,7 @@
 
 A repository of scripts, nearly identical to its Zotero fork-parent, used to prep the Juris-M code module for integration into the standalone client.
 
-(Before working with these scripts, be sure to visit the core Juris-M repository and perform the steps for building the core module that are described there.)
+(Before working with these scripts, be sure to visit the [core Juris-M repository](https://github.com/Juris-M/zotero#user-content-juris-m) and perform the steps for building the core module that are described there.)
 
 ----------
 
